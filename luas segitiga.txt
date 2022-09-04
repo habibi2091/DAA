@@ -1,0 +1,14 @@
+Algoritma 
+-step 1 deklarasikan luas, alas, dan tinggi
+-step 2 lalu masukan alas = 25, tinggi= 30
+-step 3 kemudian menghitung luas = 1/2 * alas *tinggi
+-step 4 terakhir menampilkan luas
+
+pseudecode
+deklerasi
+ 
+var luas, alas, tinggi
+alas <- 25
+tinggi <- 30
+luas 1/2*alas*tinggi
+write(luas)
